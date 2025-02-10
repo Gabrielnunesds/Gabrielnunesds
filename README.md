@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel 👋😀
 
-- 🔭 Cursando Sistemas para Internet
+- 🔭 Graduado em Sistemas para Internet
 - 🌱 Desenvolvedor Front-end
 
 <div align="center">
